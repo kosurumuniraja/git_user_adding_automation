@@ -27,9 +27,9 @@ invite_user_to_repo() {
 # Replace 'your_token_here' with your GitHub Personal Access Token
 # Replace 'new_user_username' with the GitHub username of the user to invite
 
-org="BridgestoneGlobal-CB2"
+org=""
 token=""
-username="Muniraja-Sapient"
+username=""
 
 # List of specific repositories to which the user should be added
 repos=("MSP")  # Replace with actual repository names
