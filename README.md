@@ -1,0 +1,1 @@
+# git_user_adding_automation
